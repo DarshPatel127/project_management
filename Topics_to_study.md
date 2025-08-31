@@ -1,0 +1,5 @@
+-ts full syntax
+-jwt implementation and line by line
+-drizzle kit
+-nodemon
+-update functionality
